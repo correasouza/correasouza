@@ -1,5 +1,3 @@
-![snake.gif](https://github.com/correasouza/correasouza/blob/output/github-contribution-grid-snake.gif)
-
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
