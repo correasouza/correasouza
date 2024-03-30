@@ -13,7 +13,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 Sobre mim</summary>
+  <summary>🧑🏻‍💻 Sobre mim</summary>
 
   - 💬 Possuo 19 anos, sou natural de Rondon do Pará, mas atualmente resido em Marabá onde curso Sistemas de Informação pela UNIFESSPA (Universidade Federal do Sul e Sudeste do Pará). Tenho contato com diversas linguagens de programação, dentre elas: Java, JavaScript, Python, Swift, C. 
 
