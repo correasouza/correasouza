@@ -28,10 +28,13 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/igorsxntos)
 
 <!-- GithubStats -->
-#
-![](https://github-readme-stats.vercel.app/api?username=correasouza&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=correasouza&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+#### 🎯 Estatísticas
+<div align=left>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=correasouza&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&line_height=29&locale=pt-br&rank_icon=github">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correasouza&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=donut">
+</div>
 
+#
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1jOG90dWNwMGcwYjNta2NvNG02aTZmaTM0cG93ZHF5eDY5a3FzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SO8sDJQB8LXBS/giphy.gif" alt="Imagem">
