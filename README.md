@@ -3,7 +3,6 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello, World!</h1></summary>
 </div>
-    
 
 <!-- Presentation -->
 <p>
@@ -27,6 +26,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorsantosigor272@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/igorsxntos)
 
+***
+
 <!-- GithubStats -->
 #### 🎯 Estatísticas
 <div align=left>
@@ -34,13 +35,14 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correasouza&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=donut">
 </div>
 
-#
+***
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1jOG90dWNwMGcwYjNta2NvNG02aTZmaTM0cG93ZHF5eDY5a3FzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SO8sDJQB8LXBS/giphy.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills
+
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
@@ -63,5 +65,6 @@
     
     
   </div>
-
+  
+***
 <img src="https://raw.githubusercontent.com/correasouza/correasouza/output/snake.svg" alt="Snake animation" />
