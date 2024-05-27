@@ -31,8 +31,8 @@
 <!-- GithubStats -->
 #### 🎯 Estatísticas
 <div align=left>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=correasouza&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&line_height=29&locale=pt-br&rank_icon=github">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correasouza&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=donut">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=correasouz&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&line_height=29&locale=pt-br&rank_icon=github">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correasouz&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=donut">
 </div>
 
 ***
