@@ -8,7 +8,7 @@
 <p>
   Oi 👋🏻, Eu me chamo Igor! Sou graduando em Sistemas de Informação.
 
-  - 👾 Atualmente estou no 4° período, cursando pela UNIFESSPA.
+  - 👾 Atualmente estou no 5° período, cursando pela UNIFESSPA.
 </p>
 
 <!-- Dropdown -->
