@@ -8,14 +8,14 @@
 <p>
   Oi 👋🏻, Eu me chamo Igor! Sou graduando em Sistemas de Informação.
 
-  - 👾 Atualmente estou no 5° período, cursando pela UNIFESSPA.
+  - 👾 Atualmente estou no 7° período, cursando pela UNIFESSPA.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>🧑🏻‍💻 Sobre mim</summary>
 
-  - 💬 Possuo 20 anos, sou natural de Rondon do Pará, mas atualmente resido em Marabá onde curso Sistemas de Informação pela UNIFESSPA (Universidade Federal do Sul e Sudeste do Pará). Tenho contato com diversas linguagens de programação, dentre elas: Java, JavaScript, Python, Swift, C. 
+  - 💬 Possuo 21 anos, sou natural de Rondon do Pará, mas atualmente resido em Marabá onde curso Sistemas de Informação pela UNIFESSPA (Universidade Federal do Sul e Sudeste do Pará). Tenho contato com diversas linguagens de programação, dentre elas: Java, JavaScript, Python, Swift, C. 
 
   - 🎮 Sou um amante de futebol, animes, filmes e jogos. Admirador das diversas tecnologias existentes, procurando sempre me manter atualizado sobre as diversas criações que surgem diariamente. \o/
 </details>
