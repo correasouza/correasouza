@@ -15,7 +15,7 @@
 <details>
   <summary>🧑🏻‍💻 Sobre mim</summary>
 
-  - 💬 Possuo 21 anos, sou natural de Rondon do Pará, mas atualmente resido em Marabá onde curso Sistemas de Informação pela UNIFESSPA (Universidade Federal do Sul e Sudeste do Pará). Tenho contato com diversas linguagens de programação, dentre elas: Java, JavaScript, Python, Swift, C. 
+  - 💬 Possuo 21 anos, sou natural de Rondon do Pará, mas atualmente resido em Marabá onde curso Sistemas de Informação pela UNIFESSPA (Universidade Federal do Sul e Sudeste do Pará). Tenho contato com diversas tecnologias, dentre elas: JavaScript, TypeScript, Node.js e React. 
 
   - 🎮 Sou um amante de futebol, animes, filmes e jogos. Admirador das diversas tecnologias existentes, procurando sempre me manter atualizado sobre as diversas criações que surgem diariamente. \o/
 </details>
@@ -28,49 +28,12 @@
 
 ***
 
-<!-- GithubStats -->
-#### 🎯 Estatísticas
-<div align=left>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=correasouza&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&line_height=29&locale=pt-br&rank_icon=github">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correasouza&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=donut">
-</div>
-
 ***
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1jOG90dWNwMGcwYjNta2NvNG02aTZmaTM0cG93ZHF5eDY5a3FzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SO8sDJQB8LXBS/giphy.gif" alt="Imagem">
 </p>
 
-## 🔥 Skills
-
-<!-- Skills: Programming Languages -->
-  <div align="left">
-  <h3>Programming Languages</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-</div>
-
-###
-  
-  <!-- Skills: Tools & Frameworks -->
- <div align="left">
-  <h3>Tools & Frameworks</h3>
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  
-  
-</div>
 
 ###
   
