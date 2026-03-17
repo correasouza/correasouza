@@ -15,7 +15,7 @@
 <details>
   <summary>🧑🏻‍💻 Sobre mim</summary>
 
-  - 💬 Possuo 21 anos, sou natural de Rondon do Pará, mas atualmente resido em Marabá onde curso Sistemas de Informação pela UNIFESSPA (Universidade Federal do Sul e Sudeste do Pará). Tenho contato com diversas tecnologias, dentre elas: JavaScript, TypeScript, Node.js e React. 
+  - 💬 Possuo 21 anos, cursando Sistemas de Informação pela UNIFESSPA (Universidade Federal do Sul e Sudeste do Pará). Tenho contato com diversas tecnologias, dentre elas: JavaScript, TypeScript, Node.js e React. 
 
   - 🎮 Sou um amante de futebol, animes, filmes e jogos. Admirador das diversas tecnologias existentes, procurando sempre me manter atualizado sobre as diversas criações que surgem diariamente. \o/
 </details>
