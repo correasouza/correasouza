@@ -38,4 +38,3 @@
 ###
   
 ***
-<img src="https://raw.githubusercontent.com/correasouza/correasouza/output/snake.svg" alt="Snake animation" />
