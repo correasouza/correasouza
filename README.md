@@ -17,7 +17,7 @@
 
   - 💬 Tenho 21 anos, cursando Sistemas de Informação pela UNIFESSPA (Universidade Federal do Sul e Sudeste do Pará). Tenho contato com diversas tecnologias, dentre elas: JavaScript, TypeScript, Node.js e React. 
 
-  - 🎮 Sou um amante de futebol, animes, filmes e jogos. Admirador das diversas tecnologias existentes, procurando sempre me manter atualizado sobre as diversas criações que surgem diariamente. \o/
+  - 🎮 Sou um amante de futebol, animes, filmes e jogos. Admirador das diversas tecnologias existentes, procurando sempre me manter atualizado sobre as diversas criações que surgem diariamente.
 </details>
 
 
